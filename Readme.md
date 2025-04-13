@@ -14,8 +14,8 @@ This project leverages Large Language Models (LLMs) to create a practical tool t
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/article-qa-llm.git
-    cd article-qa-llm
+    https://github.com/user_name/AI_Researcher.git
+    cd AI_Researcher
     ```
 
 2. Install the required Python packages:
